@@ -1,0 +1,1 @@
+python E:/detect_demo/export_inference_graph.py --input_type image_tensor --pipeline_config_path E:/TensorFlow_Supporting/models/test/data/ssd_inception_v2_pets.config --trained_checkpoint_prefix E:/TensorFlow_Supporting/models/test/training/model.ckpt-0 --output_directory E:/TensorFlow_Supporting/models/test/data/frozen_inference_graph.pb
