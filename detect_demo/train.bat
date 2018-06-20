@@ -1,1 +1,0 @@
-python E:/TensorFlow_Supporting/models/research/object_detection/train.py --logtostderr --pipeline_config_path=E:/TensorFlow_Supporting/models/test/data/ssd_inception_v2_pets.config --train_dir=E:/TensorFlow_Supporting/models/test/training
