@@ -1,0 +1,1 @@
+python E:/TensorFlow_Supporting/models/research/object_detection/train.py  --logtostderr --pipeline_config_path=the_data/ship_obj.config --train_dir=training/

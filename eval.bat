@@ -1,0 +1,1 @@
+python E:/TensorFlow/TensorFlow_Supporting/models/research/object_detection/eval.py --logtostderr --checkpoint_dir=E:/TensorFlow/TensorFlow_Supporting/models/test/training --eval_dir=E:/TensorFlow/TensorFlow_Supporting/models/test/eval --pipeline_config_path=E:/TensorFlow/TensorFlow_Supporting/models/test/data/ssd_inception_v2_pets.config

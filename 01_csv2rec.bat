@@ -1,0 +1,1 @@
+python 01_csv2rec.py --csv_input=the_data/ship_val.csv --output_path=the_data/ship_val.record
