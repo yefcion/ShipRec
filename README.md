@@ -1,3 +1,6 @@
+本文基于一篇博客修改，原文链接如下。
+原文链接：[Windows下安装TensorFlow Object Detection API，训练自己的数据集](https://blog.csdn.net/RobinTomps/article/details/78115628)
+
 ## Object Detection API 环境搭建
 
 1、首先安装配置好TensorFlow，[参考地址](http://blog.csdn.net/robintomps/article/details/77993750)
@@ -413,5 +416,3 @@ if __name__ == '__main__':
             image = cv2.imread(path)
             detecotr.detect(image)
 ```
-
-训练时间太长、电脑卡起了，就不上图了~~~
